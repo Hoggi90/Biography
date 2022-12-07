@@ -1,0 +1,19 @@
+body {
+    background-color:rgb(217, 170, 91)
+}
+img {
+    border: 5px solid black;
+}
+h1 {
+    font-size: 60px;
+}
+li {
+    color: white;
+}
+.headwhite {
+    color: white;
+}
+.center {
+    text-align: center;
+    
+}
